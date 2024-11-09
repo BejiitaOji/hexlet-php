@@ -1,0 +1,16 @@
+{
+    "name": "ilya/hexlet-php",
+    "description": "test project",
+    "autoload": {
+        "psr-4": {
+            "Ilya\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BejiitaOji",
+            "email": "bah6ntowl@gmail.com"
+        }
+    ],
+    "require": {}
+}
